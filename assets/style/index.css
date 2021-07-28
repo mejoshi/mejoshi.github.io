@@ -17,6 +17,7 @@
     body{
         background-color: #270031;
         background-image: url('/assets/images/Desktop\ -\ 1.png');
+        background-repeat: no-repeat;
         font-family: 'Noto Sans';
         margin: 0px 192px;
     
@@ -91,6 +92,7 @@
     body{
         background-color: #270031;
         background-image: url('/assets/images/Desktop\ -\ 1.png');
+        background-repeat: no-repeat;
         font-family: 'Noto Sans';
     
     }
