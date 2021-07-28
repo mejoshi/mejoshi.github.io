@@ -1,0 +1,8 @@
+.content{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 250px;
+    color: white;
+}
